@@ -1,6 +1,6 @@
 import random
 
-from quotes import quotes
+from random_quote_generator.quotes import quotes
 
 
 def get_quote() -> dict:
