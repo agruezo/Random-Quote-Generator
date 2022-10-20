@@ -5,7 +5,7 @@ packages = [
 ]
 version = "0.1.1"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Alexander Gruezo <agruezo@gmail.com>"]
 
 
 [tool.poetry.dependencies]
