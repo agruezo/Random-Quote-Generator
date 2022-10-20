@@ -13,5 +13,5 @@ def get_quote() -> dict:
     :return: selected quotes
     :rtype: dict
     """
-    
+
     return quotes[random.randint(0, len(quotes) - 1)]
