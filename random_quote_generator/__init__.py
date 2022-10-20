@@ -2,7 +2,7 @@
 Random Quote Generator
 ======================
 
-Get random quote from our database of philosphical quotes
+Get a random quote from our database of popular quotes
 """
 from .get_quote import get_quote
 
